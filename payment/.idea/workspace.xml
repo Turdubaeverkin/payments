@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45f83318-b154-4ffd-ab48-c8100fd9d43d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/payment/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/payment/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/payment/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/payment/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/payment/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/payment/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/payment/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/payment/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/payment/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/payment/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/payment/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/payment/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/payment/vendor/haruncpi/laravel-h" />
+      <path value="$PROJECT_DIR$/payment/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/payment/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/payment/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/payment/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/payment/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/payment/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/payment/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/payment/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/payment/vendor/composer" />
+      <path value="$PROJECT_DIR$/payment/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/payment/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/payment/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/payment/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/payment/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/payment/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/payment/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/payment/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/payment/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/payment/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/payment/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/payment/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/payment/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/payment/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/payment/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/payment/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/payment/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/payment/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/payment/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/payment/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/payment/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/payment/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/payment/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/payment/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/payment/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/payment/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/payment/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/payment/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/payment/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/payment/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/payment/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/payment/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/payment/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/payment/vendor/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kK4NyW9zhChCIStCgVPufm3fQ5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/storage/app/public/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\эркин\PhpstormProjects\payment\storage\app\public\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/payment/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/main.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45f83318-b154-4ffd-ab48-c8100fd9d43d" name="Default Changelist" comment="" />
+      <created>1605435912732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605435912732</updated>
+      <workItem from="1605435913814" duration="15588000" />
+      <workItem from="1605505123127" duration="16217000" />
+      <workItem from="1605527902263" duration="2554000" />
+      <workItem from="1605537747805" duration="2845000" />
+      <workItem from="1605608739385" duration="591000" />
+      <workItem from="1605619778823" duration="1093000" />
+      <workItem from="1605620903779" duration="8946000" />
+      <workItem from="1605638847127" duration="4252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="13" key="#CLI_Interpreters" timestamp="1605438987463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="13" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1605438987463" />
+    <state x="390" y="6" key="#PHP" timestamp="1605438998499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="6" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1605438998499" />
+    <state x="453" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605638962576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605638962576" />
+    <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1605620900564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605620900564" />
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.2.bottom" timestamp="1605439231815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605439231815" />
+    <state width="1322" height="217" key="GridCell.Tab.2.center" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.2.left" timestamp="1605439231814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1605439231814" />
+    <state width="1322" height="217" key="GridCell.Tab.2.right" timestamp="1605439231815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1605439231815" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1605438164231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605438164231" />
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1605438890410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1605438890410" />
+    <state x="504" y="134" key="refactoring.ChangeSignatureDialog" timestamp="1605623643531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="504" y="134" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1605623643531" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1605436623870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605436623870" />
+  </component>
+</project>
